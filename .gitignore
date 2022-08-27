@@ -1,0 +1,9 @@
+node_modules
+.next
+/sanity/node_modules
+/sanity/config
+/sanity/config
+/sanity/dist
+/sanity/plugins
+/sanity/static
+/sanity/static
